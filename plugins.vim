@@ -7,6 +7,7 @@ Plug 'junegunn/fzf.vim'
 Plug 'bling/vim-airline'
 Plug 'liuchengxu/vista.vim'
 Plug 'janko/vim-test'
+Plug 'preservim/nerdtree'
 
 call plug#end()
 
