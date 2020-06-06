@@ -38,10 +38,10 @@
 
 ## Nice to have features
 
-| Feature                              | Shortcuts                          | Notes/Plugins  |
-| -                                    | -                                  | -              |
-| Markdown change color in code block  |                                    | Pending        |
-| Align Markdown Table                 | vipga then :EasyAlign*<Bar><Enter> | vim-easy-align |
-| Show JSON path to field like VS Code |                                    |                |
-| Run command under cursor             |                                    |                |
+| Feature                              | Shortcuts                            | Notes/Plugins  |
+| -                                    | -                                    | -              |
+| Markdown change color in code block  |                                      | Pending        |
+| Align Markdown Table                 | vipga then `:EasyAlign*<Bar><Enter>` | vim-easy-align |
+| Show JSON path to field like VS Code |                                      |                |
+| Run command under cursor             |                                      |                |
 
