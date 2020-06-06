@@ -5,4 +5,4 @@ function! GitStatus()
 endfunction
 set statusline+=%{GitStatus()}
 
-set signcolumn=yes
+"set signcolumn=yes
