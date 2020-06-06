@@ -12,3 +12,6 @@ highlight ColorColumn ctermbg=DarkGray
 " Show whitespace, except eol (eol:$ is default)
 set listchars=tab:\ \ ,trail:~,extends:>,precedes:<
 set list
+
+" Highlight current line
+set cursorline
