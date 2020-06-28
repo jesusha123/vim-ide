@@ -7,7 +7,7 @@
 | Go to implementation                         | :gd                       | coc.nvim                                    |
 | List references                              | :gr                       | coc.nvim                                    |
 | Auto complete                                | `<Tab>`                   | coc.nvim                                    |
-| Fuzzy file finder                            | :FZF                      | fzf                                         |
+| Fuzzy file finder                            | :FZF, <leader>p           | fzf                                         |
 | Run tests                                    | :TestNearest, :TestFile   | vim-test                                    |
 | List of methods/fields                       | :Vista                    | vista.vim, window width: vertical resize 80 |
 | Project Tree                                 | :NERDTree                 |                                             |
@@ -20,12 +20,11 @@
 | Render Markdown (with PlantUML)              | :MarkdownPreview          | markdown-preview.nvim                       |
 | vim find number of hits                      |                           |                                             |
 | Column at 80 chars                           | N/A                       | basic configuration                         |
-| List current filename                        | N/A                       | airline                                     |
+| List current filename                        | N/A                       | vim-airline                                 |
+| Buffer list                                  |                           | vim-airline                                 |
 | Show git markers                             | N/A                       | vim-gitgutter                               |
 | Change filetype syntax                       |                           | Pending                                     |
 | Autoformat JSON (Format Document in VS COde) |                           | Pending                                     |
-| Show open files in tabs? Maybe window?       |                           | Pending                                     |
-| Buffer list                                  |                           | Pending                                     |
 | Debug                                        |                           | Pending                                     |
 | Paste from system clipboard                  |                           | Pending                                     |
 | Show type hierarchy                          |                           | Pending                                     |
