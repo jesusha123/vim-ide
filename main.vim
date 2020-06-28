@@ -1,3 +1,6 @@
+nnoremap <SPACE> <Nop>
+let mapleader=" "
+
 source ~/dev/vim-ide/plugins.vim
 
 set nobackup                      " Disable temp files.
