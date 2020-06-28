@@ -15,3 +15,8 @@ set list
 
 " Highlight current line
 set cursorline
+
+" Buffer switching
+nnoremap <C-N> :bnext<CR>
+nnoremap <C-P> :bprev<CR>
+

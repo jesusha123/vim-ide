@@ -14,16 +14,17 @@
 | Prev/Next location                           | Ctrl+o, Ctrl+i or `<Tab>` | basic feature                               |
 | Show numbers                                 |                           | basic configuration                         |
 | Highlight current line                       |                           | basic configuration                         |
+| Buffer next                                  | C-b C-p                   | basic configuration                         |
 | Quit all windows fast                        | :qa                       | basic feature                               |
 | Open file under cursor                       | :gf                       | basic feature                               |
 | Render Markdown (with PlantUML)              | :MarkdownPreview          | markdown-preview.nvim                       |
-| Show open files in tabs? Maybe window?       |                           |                                             |
 | vim find number of hits                      |                           |                                             |
-| Autoformat JSON (Format Document in VS COde) |                           |                                             |
-| Change filetype syntax                       |                           |                                             |
 | Column at 80 chars                           | N/A                       | basic configuration                         |
 | List current filename                        | N/A                       | airline                                     |
 | Show git markers                             | N/A                       | vim-gitgutter                               |
+| Change filetype syntax                       |                           | Pending                                     |
+| Autoformat JSON (Format Document in VS COde) |                           | Pending                                     |
+| Show open files in tabs? Maybe window?       |                           | Pending                                     |
 | Buffer list                                  |                           | Pending                                     |
 | Debug                                        |                           | Pending                                     |
 | Paste from system clipboard                  |                           | Pending                                     |
@@ -37,6 +38,8 @@
 | Shortcut comment lines                       |                           | Pending                                     |
 | Call hierarchy                               |                           | Pending                                     |
 | Auto indentation                             |                           | Pending                                     |
+| Close others                                 |                           |                                             |
+| Close all                                    |                           |                                             |
 
 ## Nice to have features
 

@@ -6,7 +6,7 @@ Plug 'liuchengxu/vista.vim'
 Plug 'haya14busa/vim-easymotion'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
-Plug 'bling/vim-airline'
+Plug 'vim-airline/vim-airline'
 Plug 'janko/vim-test'
 Plug 'preservim/nerdtree'
 
@@ -21,3 +21,5 @@ call plug#end()
 source ~/dev/vim-ide/plugin-coc-nvim.vim
 source ~/dev/vim-ide/plugin-vim-gitgutter.vim
 
+" NERDTree open when started
+autocmd vimenter * NERDTree
