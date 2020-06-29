@@ -23,3 +23,6 @@ set cursorline
 nnoremap <C-N> :bnext<CR>
 nnoremap <C-P> :bprev<CR>
 
+" Activate mouse
+set mouse=a
+
