@@ -25,7 +25,7 @@ nnoremap <C-P> :bprev<CR>
 
 " Activate mouse
 set mouse=a
-"
+
 " FZF
 nnoremap <leader>p :FZF<CR>
 
@@ -34,4 +34,7 @@ nnoremap <leader>o :MarkdownPreview<CR>
 
 " Close buffer
 nnoremap <leader>w :bd<CR>
+
+" NERDTree toggle
+nnoremap <leader>t :NERDTreeToggle<CR>
 
