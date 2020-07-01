@@ -9,6 +9,7 @@ Plug 'junegunn/fzf.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'janko/vim-test'
 Plug 'preservim/nerdtree'
+Plug 'preservim/nerdcommenter'
 
 Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app & yarn install'  }
 Plug 'junegunn/vim-easy-align'

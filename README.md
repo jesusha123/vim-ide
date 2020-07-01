@@ -16,14 +16,15 @@
 | Highlight current line                       |                             | basic configuration                         |
 | Buffer next                                  | C-b C-p                     | basic configuration                         |
 | Paste from system clipboard                  |                             | basic configuration, clipboard=unnamedplus  |
+| Column at 80 chars                           | N/A                         | basic configuration                         |
 | Quit all windows fast                        | :qa                         | basic feature                               |
 | Open file under cursor                       | :gf                         | basic feature                               |
 | Render Markdown (with PlantUML)              | :MarkdownPreview, <leader>o | markdown-preview.nvim                       |
 | vim find number of hits                      |                             |                                             |
-| Column at 80 chars                           | N/A                         | basic configuration                         |
 | List current filename                        | N/A                         | vim-airline                                 |
 | Buffer list                                  |                             | vim-airline                                 |
 | Show git markers                             | N/A                         | vim-gitgutter                               |
+| Shortcut comment lines                       | <leader>c<space>            | NERD Commenter                              |
 | Change filetype syntax                       |                             | Pending                                     |
 | Autoformat JSON (Format Document in VS COde) |                             | Pending                                     |
 | Debug                                        |                             | Pending                                     |
@@ -34,7 +35,6 @@
 | Automatic refactoring                        |                             | Pending                                     |
 | Drag and drop package refactoring            |                             | Pending                                     |
 | Show code errors                             |                             | Pending (coc.nvim?)                         |
-| Shortcut comment lines                       |                             | Pending                                     |
 | Call hierarchy                               |                             | Pending                                     |
 | Auto indentation                             |                             | Pending                                     |
 | Close others                                 |                             |                                             |
