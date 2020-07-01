@@ -33,3 +33,6 @@ let g:airline#extensions#tabline#enabled = 1
 " FZF
 nnoremap <leader>p :FZF<CR>
 
+" Markdown
+nnoremap <leader>o :MarkdownPreview<CR>
+
