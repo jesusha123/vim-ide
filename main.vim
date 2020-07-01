@@ -25,4 +25,13 @@ nnoremap <C-P> :bprev<CR>
 
 " Activate mouse
 set mouse=a
+"
+" FZF
+nnoremap <leader>p :FZF<CR>
+
+" Markdown
+nnoremap <leader>o :MarkdownPreview<CR>
+
+" Close buffer
+nnoremap <leader>w :bd<CR>
 
